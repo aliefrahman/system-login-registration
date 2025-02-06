@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.card {
+    border-radius: 1rem;
+    border: none;
+}
+
+.card-header {
+    border-radius: 1rem 1rem 0 0 !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color: #4e73df;
+}
+
+.input-group-text {
+    cursor: pointer;
+}
+
+.toggle-password:hover {
+    color: #4e73df;
+}
+
+.btn-primary {
+    background: #4e73df;
+    border: none;
+    padding: 0.6rem;
+}
+
+.btn-primary:hover {
+    background: #2e59d9;
+}
+
+a {
+    color: #4e73df;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2e59d9;
+}
