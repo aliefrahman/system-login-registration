@@ -75,7 +75,7 @@ system-login-registration/
 │   └── functions.php
 ├── index.php
 ├── login.php
-├── register.php
+└──register.php
 ```
 
 ## Security Features
