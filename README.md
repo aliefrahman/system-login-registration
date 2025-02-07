@@ -76,7 +76,6 @@ system-login-registration/
 ├── index.php
 ├── login.php
 ├── register.php
-└── README.md
 ```
 
 ## Security Features
